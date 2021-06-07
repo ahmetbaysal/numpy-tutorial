@@ -1,5 +1,9 @@
 # numpy-tutorial
-Bu 
+
+Bu repo NumPy kütüphanesini hiç bilmeyen bir kişiye kaynak oluşturmak amacıyla yapılmış çalışmaları içerir.
+
+### _Örnek Görünüm_
+![Örnek-image](https://github.com/ahmetbaysal/numpy-tutorial/blob/main/image-1.png)
 
 ## Content
 
